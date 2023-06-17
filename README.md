@@ -1,1 +1,1 @@
-# Java-mooc-part2
+# mooc-java-part2
